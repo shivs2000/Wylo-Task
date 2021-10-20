@@ -1,7 +1,7 @@
 # Wylo-Task
 
 ## SCREENSHOT
- ![Screenshot_1634616547](https://user-images.githubusercontent.com/43001208/138042314-c23e4e30-1870-4023-84dd-7552c26a7f29.png)
+<img src="https://user-images.githubusercontent.com/43001208/138042314-c23e4e30-1870-4023-84dd-7552c26a7f29.png" width="200" height="400"/>
 ![Screenshot_1634616339](https://user-images.githubusercontent.com/43001208/138042337-0d51a541-05a9-439b-b413-9e4dbabb3d78.png)
 ![Screenshot_1634616341](https://user-images.githubusercontent.com/43001208/138042353-555f9c82-bbf6-4cba-a412-00026d59e735.png)
 
